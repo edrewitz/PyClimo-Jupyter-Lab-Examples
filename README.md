@@ -19,4 +19,5 @@
    
    v) EOF2 Scores for the period
 
-   [click here](https://github.com/edrewitz/PyClimo-Jupyter-Lab-Examples/blob/main/Examples/Winter_2024_2025_Analysis.ipynb) to view Example 1. 
+   [click here](https://github.com/edrewitz/PyClimo-Jupyter-Lab-Examples/blob/main/Examples/Winter_2024_2025_Analysis.ipynb) to view Example 1.
+   [click here](https://github.com/edrewitz/PyClimo-Jupyter-Lab-Examples/tree/main/graphics/Example%201) to view the graphics created in Example 1. 
