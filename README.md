@@ -1,7 +1,11 @@
 # PyClimo-Jupyter-Lab-Examples
-A gallery of Jupyter Lab Examples of using PyClimo 
 
-1) A first time user setup with analyzing NCAR Reanalysis data for 500mb geopotential heights for DJF 2024-2025 (Winter 2024-2025).
+<img width="200" height="150" alt="climate" src="https://github.com/edrewitz/PyClimo/blob/main/climate.jpg?raw=true"> ![image](https://github.com/user-attachments/assets/da1b43c0-2b6a-4a5c-9eb4-f08b30cab42b)
+
+
+1) **Winter 2024-2025 500 MB Geopotential Height Analysis**
+
+   A first time user setup with analyzing NCAR Reanalysis data for 500mb geopotential heights for DJF 2024-2025 (Winter 2024-2025).
    
    In this example we will create 5 graphics showing the following:
    
