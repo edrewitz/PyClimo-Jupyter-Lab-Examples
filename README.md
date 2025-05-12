@@ -37,7 +37,7 @@
 
    [click here](https://github.com/edrewitz/PyClimo-Jupyter-Lab-Examples/blob/main/graphics/Example%202/TMAX.png) to view the graphic created in Example 2. 
 
-4) **Plotting the Monthly Normal Maximum Vapor Pressure Deficit for August using the Geographic Area Coordination Center/Predictive Services Areas Reference System**
+3) **Plotting the Monthly Normal Maximum Vapor Pressure Deficit for August using the Geographic Area Coordination Center/Predictive Services Areas Reference System**
 
    In this example we will plot the monthly normal for the Maximum Vapor Pressure Deficit for August using the 'GACC & PSA' reference system.
 
@@ -47,7 +47,7 @@
 
    [click here](https://github.com/edrewitz/PyClimo-Jupyter-Lab-Examples/blob/main/graphics/Example%203/VPDMAX.png) to view the graphic created in Example 3. 
 
-6) **Plotting the Daily Precipitation for October 30th, 2012**
+4) **Plotting the Daily Precipitation for October 30th, 2012**
 
    In this example, we will plot the daily precipitation for October 30th, 2012. This was the day Super Storm Sandy hit Long Island and New York City.
 
